@@ -1,6 +1,8 @@
 # 💫 About Me:
 ## Hello! I'm an enthusiastic student with a strong interest in deep learning, machine learning, and data science, I am constantly seeking to broaden my knowledge and skills in these areas. I'm fascinated by these fields' transformative potential in solving complex problems and making meaningful contributions to society. I have a solid foundation in computer science thanks to my academic journey, and I am actively exploring cutting-edge technologies and techniques. Curiosity, a thirst for knowledge, and a determination to make a positive difference through innovative applications of AI and data-driven solutions motivate me.
+## 📖 I'm currently an undergraduate student at the [Department of Computer Science & Engineering](https://ru.ac.bd/cse), [University of Rajshahi, Bangladesh](https://ru.ac.bd)
 
+## 📍 I'm currently learning Deep Learning on Computer Vision tasks using Keras API of the Tensorflow Platform.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahanaf019) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahanaf019) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahanaf019) 
