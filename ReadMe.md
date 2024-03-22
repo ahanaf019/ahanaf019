@@ -6,6 +6,13 @@
 <font size=5>📍 I'm currently learning Deep Learning on Computer Vision tasks using Keras API of the Tensorflow Platform.</font>
 <br><br><br>
 
+# 🌐 Published Papers:
+- <font size=5> [Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)</font>
+
+    **Md. Ahanaf Arif Khan**, Md. Hasnain Ali, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
+    <br> 2023 26th International Conference on Computer and Information Technology (ICCIT), 13-15 December 2023, Cox's Bazar, Bangladesh
+<br><br><br>
+
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahanaf019) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahanaf019) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahanaf019) 
 <br><br><br>
