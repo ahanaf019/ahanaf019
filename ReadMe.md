@@ -7,7 +7,9 @@
 
 <font size=5>📍 I'm currently learning Deep Learning for Natural Language Processing using Keras API of the Tensorflow Platform.</font>
 
-# 🌐 Published Papers:
+<font size=5>📍 I'm currently learning Deep Learning using Pytorch.</font>
+
+# 📚 Published Papers:
 - <font size=5> [Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)</font>
 
     **Md. Ahanaf Arif Khan**, Md. Hasnain Ali, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
