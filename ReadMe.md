@@ -5,8 +5,6 @@
 
 <font size=5>📍 I'm currently learning Deep Learning for Computer Vision tasks using Keras API of the Tensorflow Platform.</font>
 
-<font size=5>📍 I'm currently learning Deep Learning for Natural Language Processing using Keras API of the Tensorflow Platform.</font>
-
 <font size=5>📍 I'm currently learning Deep Learning using Pytorch.</font>
 
 # 📚 Published Papers:
