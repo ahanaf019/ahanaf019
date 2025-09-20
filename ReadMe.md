@@ -1,13 +1,17 @@
 # 💫 About Me:
-<font size=5>Hello! I'm an enthusiastic student with a strong interest in deep learning, machine learning, data science and data analysis, I am constantly seeking to broaden my knowledge and skills in these areas. I'm fascinated by these fields' transformative potential in solving complex problems and making meaningful contributions to society. I have a solid foundation in computer science thanks to my academic journey, and I am actively exploring cutting-edge technologies and techniques. Curiosity, a thirst for knowledge, and a determination to make a positive difference through innovative applications of AI and data-driven solutions motivate me.</font>
+<font size=5>Hello! I'm an enthusiastic student with a strong interest in deep learning, machine learning, data science, and data analysis. I am constantly seeking to broaden my knowledge and skills in these areas. I'm fascinated by these fields' transformative potential in solving complex problems and making meaningful contributions to society. I have a solid foundation in computer science thanks to my academic journey, and I am actively exploring cutting-edge technologies and techniques. Curiosity, a thirst for knowledge, and a determination to make a positive difference through innovative applications of AI and data-driven solutions motivate me.</font>
 
-<font size=5> 📖 I'm currently an graduate student at the [Department of Computer Science & Engineering](https://ru.ac.bd/cse), [University of Rajshahi, Bangladesh](https://ru.ac.bd)</font>
+<font size=5> 📖 I'm currently a graduate student at the [Department of Computer Science & Engineering](https://ru.ac.bd/cse), [University of Rajshahi, Bangladesh](https://ru.ac.bd)</font>
 
-<font size=5>📍 I'm currently learning Deep Learning for Computer Vision tasks using Keras API of the Tensorflow Platform.</font>
+<font size=5>📍 I'm currently working on Computer Vision tasks using PyTorch</font>
 
 <font size=5>📍 I'm currently learning Deep Learning using Pytorch.</font>
 
 # 📚 Published Papers:
+- <font size=5> [Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](https://doi.org/10.3390/life15091473)</font> 
+  Sangeeta Biswas, **Md. Ahanaf Arif Khan**, Md. Hasnain Ali, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik  
+  _Life_. 2025; **15**(9):1473. doi:10.3390/life15091473
+
 - <font size=5> [Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)</font>
 
     **Md. Ahanaf Arif Khan**, Md. Hasnain Ali, Nirjor Saha, Md. Sadman Shakib Shoumik, Sangeeta Biswas
