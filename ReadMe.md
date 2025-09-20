@@ -5,12 +5,12 @@
 
 <font size=5>📍 I'm currently working on Computer Vision tasks using PyTorch</font>
 
-<font size=5>📍 I'm currently learning Deep Learning using Pytorch.</font>
 
 # 📚 Published Papers:
-- <font size=5> [Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](https://doi.org/10.3390/life15091473)</font> 
-  Sangeeta Biswas, **Md. Ahanaf Arif Khan**, Md. Hasnain Ali, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik  
-  _Life_. 2025; **15**(9):1473. doi:10.3390/life15091473
+- <font size=5> [Interpreting Deep Neural Networks in Diabetic Retinopathy Grading: A Comparison with Human Decision Criteria](https://doi.org/10.3390/life15091473)</font>
+  
+    Sangeeta Biswas, **Md. Ahanaf Arif Khan**, Md. Hasnain Ali, Johan Rohdin, Subrata Pramanik, Md. Iqbal Aziz Khan, Sanjoy Kumar Chakravarty, Bimal Kumar Pramanik  
+    <br> _Life_. 2025; **15**(9):1473. doi:10.3390/life15091473
 
 - <font size=5> [Competency Comparison of Deep Neural Networks for Identifying Gender in Color Fundus Photographs](https://doi.org/10.1109/ICCIT60459.2023.10441623)</font>
 
